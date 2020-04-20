@@ -1,7 +1,0 @@
-In order to change PC or USER avatar :
-
-1) Rename your image to pc_image if you want to change PC avatar. 
-   Rename your image to user_image if you want to change USER avatar.
-NOTE : The Image format should be .jpg
-
-2) Paste your image in the Images Folder and click on Replace. That's it!!
