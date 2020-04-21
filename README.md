@@ -9,11 +9,12 @@
 * The application uses images which are stored in the Images folder.
 
 * The cx_Freeze Python Module has also been implemented here to convert this program into an executable. Hence a
-computer without standard Python installation can also run this. But it has to be a 64-bit system. The setup file used
-to configure cx_Freeze has been added to this repo called setup.py
+  computer without standard Python installation can also run this. But it has to be a 64-bit system. The setup file used
+  to configure cx_Freeze has been added to this repo called setup.py
 
 * The executable version of the application consists of the rest of the files in this repository. To run the executable
-version, double-click rockpaperscissor_v2.exe .
+  version, double-click rockpaperscissor_v2.exe . The source code python file however has only been tested working in 
+  Python 3.6 .
 ```
 
 ## ***RULES OF THE GAME***
